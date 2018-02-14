@@ -14,3 +14,5 @@ This tool will
 <img src="https://weaknetlabs.com/images/wnl-updater-screenshot.PNG"  />
 
 <img src="https://weaknetlabs.com/images/wnl-updater-screenshot-2.PNG" />
+
+<img src="https://weaknetlabs.com/images/wnl-updater-screenshot-3.PNG" />
