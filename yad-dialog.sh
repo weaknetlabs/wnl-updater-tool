@@ -9,4 +9,4 @@ TITLE="Installing Upgrades..."
 SPANFONT="<span font='Ubuntu Condensed 11'>"
 tail -f /etc/issue |yad --progress --pulsate --no-buttons --auto-close \
   --text="$SPANFONT $1 </span>" --width=350 --center --title="$TITLE" \
-  --window-icon=$ICON --percentage=13 --progress-text="Please Wait..." --image=$ICON
+  --window-icon=$ICON --percentage=13 --progress-text="Please Wait..." --image=$ICON &
