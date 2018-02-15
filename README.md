@@ -1,5 +1,5 @@
-# wnl-updater-tool
-To be used with WeakNet LINUX 8+
+# WeakNet LINUX UPdater Tool (Not WeakerThan LINUX)
+This is only to be used with WeakNet LINUX 8+
 This tool will 
 * Check the local version in /etc/wnl/version
 * Check the current version from my server at ./linux/wnl8/updates/version
