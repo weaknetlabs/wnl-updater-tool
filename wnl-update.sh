@@ -82,7 +82,7 @@ if [ "$status" -eq "0" ]
 			printf "$info Updating the local version file.\n"
 			echo $uv > /etc/wnl/version
 			printf "$info Update script completed. Starting over to check current version matching.\n\n";
-			wnl-update
+			wnl-update.sh
 	else
 		printf "$info Updates declined. Exiting.\n\n"
 	fi
