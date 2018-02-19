@@ -3,7 +3,7 @@
 # GUI display what is happening in the script.
 # To stop, simply kill tail. e.g.: killall -KILL tail 2>/dev/null
 #
-ICON=~/.wt8/images/icons/caffeine-icon.png
+ICON=~/.wt8/images/icons/caffeine-icon-small.png
 TITLETEXT=$1
 TITLE="Installing Upgrades..."
 SPANFONT="<span font='Ubuntu Condensed 11'><b>"
