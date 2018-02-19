@@ -1,7 +1,7 @@
 #!/bin/bash
 # This will display the thanks dialog after updating WNL
 # YAD required, Images in ~/.wt8 required
-ICON=/root/.wt8/images/icons/caffeine-icon.png
+ICON=/root/.wt8/images/icons/caffeine-icon-small.png
 yad --display=$DISPLAY \
  --title="Thank you for updating!" \
  --window-icon=$ICON \
